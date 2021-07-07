@@ -29,7 +29,8 @@
 
 # 👨‍💻: Languages and Tools:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueMVSS&show_icons=true&theme=radical)](https://github.com/HenriqueMVSS/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueMVSS&show_icons=true&theme=radical)]
+(https://github.com/HenriqueMVSS/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMVSS)](https://github.com/HenriqueMVSS/github-readme-stats)
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
