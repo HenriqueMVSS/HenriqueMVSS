@@ -24,9 +24,9 @@
 
 <br/>
 
-# <h1 align="center" color="red"> 👨‍💻 Languages and Tools</h1>
+# 👨‍💻 Languages and Tools
 
-<h1 align="center" color="red">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueMVSS&show_icons=true&theme=radical)](https://github.com/HenriqueMVSS/github-readme-stats)</h1>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueMVSS&show_icons=true&theme=radical)](https://github.com/HenriqueMVSS/github-readme-stats)
 
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,7 +37,7 @@
 
 <br/>
 
-# <h1 align="center" color="red"> 🚀 Frameworks 🔝 </h1>
+# 🚀 Frameworks 🔝 
 
 ![REACT Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NEXTJS Badge](https://img.shields.io/badge/nextjs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -45,7 +45,7 @@
 
 <br/>
 
-# <h1 align="center" color="red"> ⚡ Database 🔝</h1>
+# ⚡ Database 🔝
 
 ![MYSQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLITE Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -54,7 +54,7 @@
 
 <br/>
 
-# <h1 align="center" color="red"> 🌐 Web Browsers 🔝</h1>
+# 🌐 Web Browsers 🔝
 ![CHROME Badge](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![FIREFOX Badge](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![EDGE Badge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
@@ -62,7 +62,7 @@
 
 <br/>
 
-# <h1 align="center" color="red">💻 OS 🔝</h1>
+# 💻 OS 🔝
 
 ![LINUX Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![LINUX_MINT Badge](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
@@ -71,13 +71,13 @@
 
 <br/>
 
-# <h1 align="center" color="red">👨‍💻 IDE 🔝</h1>
+# 👨‍💻 IDE 🔝
 ![VSCODE Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
 <br/>
 
-# <h1 align="center" color="red">👨‍💻 Office 🔝</h1>
+# 👨‍💻 Office 🔝
 
 ![WORD Badge](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![EXCEL Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
