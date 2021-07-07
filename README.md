@@ -60,6 +60,7 @@
 ![EDGE Badge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![SAFARI Badge](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)
 
+<br/>
 
 # 💻 OS 🔝
 
@@ -68,12 +69,14 @@
 ![DEBIAN Badge](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![WINDOWS Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+<br/>
 
 # 👨‍💻 IDE 🔝
 ![VSCODE Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
 <br/>
+
 # 👨‍💻 Office 🔝
 
 ![WORD Badge](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
