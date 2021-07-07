@@ -26,7 +26,7 @@
 
 # <h1 align="center" color="red"> 👨‍💻 Languages and Tools</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueMVSS&show_icons=true&theme=radical)](https://github.com/HenriqueMVSS/github-readme-stats)
+<h1 align="center" color="red">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueMVSS&show_icons=true&theme=radical)](https://github.com/HenriqueMVSS/github-readme-stats)</h1>
 
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
