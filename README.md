@@ -37,7 +37,7 @@
 
 <br/>
 
-# 🚀 Frameworks 🔝 
+# 🚀 Frameworks
 
 ![REACT Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NEXTJS Badge](https://img.shields.io/badge/nextjs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -45,7 +45,7 @@
 
 <br/>
 
-# ⚡ Database 🔝
+# ⚡ Database
 
 ![MYSQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLITE Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -54,7 +54,7 @@
 
 <br/>
 
-# 🌐 Web Browsers 🔝
+# 🌐 Web Browsers
 ![CHROME Badge](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![FIREFOX Badge](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![EDGE Badge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
@@ -62,7 +62,7 @@
 
 <br/>
 
-# 💻 OS 🔝
+# 💻 OS
 
 ![LINUX Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![LINUX_MINT Badge](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
@@ -71,13 +71,13 @@
 
 <br/>
 
-# 👨‍💻 IDE 🔝
+# 👨‍💻 IDE
 ![VSCODE Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
 <br/>
 
-# 👨‍💻 Office 🔝
+# 👨‍💻 Office
 
 ![WORD Badge](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![EXCEL Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
