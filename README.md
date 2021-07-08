@@ -12,7 +12,7 @@
 
 📚 I'm currently improving my knowledge of React along with NextJs framework and TypeScript in Front-End and PHP in Back-End.
 
-📤 2021 Goals: Portfolio based on my knowledge to demonstrate my skills as a Developer.
+📤 2021 Goals: Portfolio based on my knowledge to demonstrate my skills as a Developer and thus get a place in the job market.
 
 💖 Apaixonado por código.
 
