@@ -6,13 +6,13 @@
 ## I'm Henrique Silva!
 
  
-🖥️ I'm Front-End Developer!
+🖥️ I'm Front-End & Back-End Developer!
 
 🏡 I'm from Brazil and I live in Salvador, Bahia.
 
-📚 I'm currently improving on React along with the NextJs framework and TypeScript.
+📚 I'm currently improving my knowledge of React along with NextJs framework and TypeScript in Front-End and PHP in Back-End.
 
-📤 2021 Goals: Portfolio based on my knowledge in order to get a job as a developer.
+📤 2021 Goals: Portfolio based on my knowledge to demonstrate my skills as a Developer.
 
 💖 Apaixonado por código.
 
