@@ -41,7 +41,7 @@
 
 ![REACT Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NEXTJS Badge](https://img.shields.io/badge/nextjs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![XAMP Badge](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
+![LARAVEL Badge](https://img.shields.io/badge/laravel-F37623?style=for-the-badge&logo=laravel&logoColor=white)
 
 <br/>
 
