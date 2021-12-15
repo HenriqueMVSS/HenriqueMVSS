@@ -37,7 +37,7 @@
 
 <br/>
 
-# 🚀 Frameworks
+# 🚀 Frameworks && Bibliotecas
 
 ![REACT Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NEXTJS Badge](https://img.shields.io/badge/nextjs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
