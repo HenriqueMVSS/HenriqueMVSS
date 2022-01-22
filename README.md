@@ -6,7 +6,7 @@
 ## I'm Henrique Silva!
 
  
-🖥️ I'm Front-End & Back-End Developer!
+🖥️ I'm Full Stack Web Developer!
 
 🏡 I'm from Brazil and I live in Salvador, Bahia.
 
@@ -42,7 +42,7 @@
 
 ![SPRINGBOOT Badge](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![REACT Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NEXTJS Badge](https://img.shields.io/badge/nextjs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NEXTJS Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![LARAVEL Badge](https://img.shields.io/badge/laravel-F37623?style=for-the-badge&logo=laravel&logoColor=white)
 
 <br/>
