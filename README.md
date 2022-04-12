@@ -10,9 +10,7 @@
 
 🏡 I'm from Brazil and I live in Salvador, Bahia.
 
-📚 I'm currently improving my knowledge of React along with NextJs framework and TypeScript in Front-End and PHP in Back-End.
-
-📤 2021 Goals: Portfolio based on my knowledge to demonstrate my skills as a Developer and thus get a place in the job market.
+📚 I'm currently improving my knowledge in Vuejs framework in Front-End and PHP in Back-End.
 
 💖 Apaixonado por código.
 
@@ -40,6 +38,7 @@
 
 # 🚀 Frameworks && Bibliotecas
 
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![SPRINGBOOT Badge](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![REACT Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NEXTJS Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
