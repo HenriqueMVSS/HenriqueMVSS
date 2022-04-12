@@ -12,7 +12,7 @@
 
 📚 I'm currently improving my knowledge in Vuejs framework in Front-End and PHP in Back-End.
 
-💖 Apaixonado por código.
+💖 I love coding.
 
 ## About me
 
