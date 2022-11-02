@@ -44,6 +44,7 @@
 ![NEXTJS Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![LARAVEL Badge](https://img.shields.io/badge/laravel-F37623?style=for-the-badge&logo=laravel&logoColor=white)
 ![CODEIGNITER Badge](https://img.shields.io/badge/codeigniter-F39923?style=for-the-badge&logo=codeigniter&logoColor=red)
+![ANGULAR Badge](https://img.shields.io/badge/angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=red)
 
 <br/>
 
