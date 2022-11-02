@@ -10,7 +10,7 @@
 
 🏡 I'm from Brazil and I live in Salvador, Bahia.
 
-📚 I'm currently improving my knowledge in Vuejs framework in Front-End and PHP in Back-End.
+📚 I currently have experience and specialization in full stack web development with the main techs in the market.
 
 💖 I love coding.
 
